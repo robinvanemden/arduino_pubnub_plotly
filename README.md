@@ -1,4 +1,4 @@
-# Streaming and visualizing air quality data with Arduino and Node.js
+# Stream & visualize air quality data with Arduino and Node.js
 
 Adafruit PM2.5 Air Quality Sensor -> Arduino -> Node.js PubNub -> Node.js Plotly
 
